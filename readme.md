@@ -1,7 +1,7 @@
 #Project Euler exercises in Javascript
 
 ###Problem 1 - [The sum of all multiples of 3 or 5 below 1000](https://projecteuler.net/problem=1) 
-This code iterates upward from 0, checking each value for divisibility by 3 or 5. An if-else if construction prevents double counting numbers that are divisible by both 3 and 5.
+This code iterates upward from 0, checking each value for divisibility by 3 or 5. An `if ... else if` construction prevents double counting numbers that are divisible by both 3 and 5.
 
 [Try it out](https://repl.it/CjyO/0)
 
