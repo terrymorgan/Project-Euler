@@ -16,3 +16,7 @@ This code iterates upward looking for any factor, dividing to produce a smaller 
 This produced an efficient algorithm. I tested it on a 70 digit number and it's fast.
 
 [Try it out](https://repl.it/CjyW/0)
+
+###Problem 4 - [Largest palindrome from product of two 3-digit numbers](https://projecteuler.net/problem=4)
+
+[Try it out](//https://repl.it/CkHF/7)
